@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">SAE</string>
+    <string name="txtTitleMain">Pacientes</string>
+    <string name="btnNewPacient">Novo Paciente</string>
+    <string name="txtTitleDetails">Paciente</string>
+
+    <string-array name="painIntensity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="bodyParty">
+        <item>Cabeça</item>
+        <item>Braços</item>
+        <item>Tórax</item>
+        <item>Barriga</item>
+        <item>Pernas</item>
+        <item>Costas</item>
+    </string-array>
+
+    <string-array name="howLong">
+        <item>1 a 2 meses</item>
+        <item>3 a 6 meses</item>
+        <item>6 a 12 meses</item>
+        <item>mais de 1 ano</item>
+    </string-array>
+
+    <string-array name="surgeryType">
+        <item>Estética</item>
+        <item>Saúde</item>
+    </string-array>
+</resources>
